@@ -11,8 +11,11 @@
             "id": "f7e35a31ce07374f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             },
             "group": "9d5a8c0a93496af3"
           }
@@ -134,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bez názvu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +176,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5d74b482fadf713a",
+  "active": "f7e35a31ce07374f",
   "lastOpenFiles": [
     "Bez názvu.md",
     "obsidian",
