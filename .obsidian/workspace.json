@@ -1,35 +1,35 @@
 {
   "main": {
-    "id": "aa3d82103e57f8d6",
+    "id": "ce367a0d9b9c6675",
     "type": "split",
     "children": [
       {
-        "id": "4668a51da11e9c15",
+        "id": "7d5cead677285b02",
         "type": "tabs",
         "children": [
           {
-            "id": "236ee2a5d5999641",
+            "id": "f7e35a31ce07374f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             },
-            "group": "d45184655d9cb838"
+            "group": "9d5a8c0a93496af3"
           }
         ]
       },
       {
-        "id": "4bde9995f659ac00",
+        "id": "72f3e1461b54d0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "db500afc6eec9941",
+            "id": "a524ad9d09ef1f85",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             },
-            "group": "d45184655d9cb838"
+            "group": "9d5a8c0a93496af3"
           }
         ]
       }
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80c5c3f45ae361d6",
+    "id": "b875861f0de4eeb4",
     "type": "split",
     "children": [
       {
-        "id": "14b71b609ad3a678",
+        "id": "2da45520898ae817",
         "type": "tabs",
         "children": [
           {
-            "id": "367e43375fd862d6",
+            "id": "5d74b482fadf713a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +55,7 @@
             }
           },
           {
-            "id": "bca1dd15ad3635c1",
+            "id": "f48ecdbe7e31148c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "327e3688cb71f96f",
+            "id": "329d074b37c6fcc0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,15 +84,15 @@
     "width": 300
   },
   "right": {
-    "id": "05705b7131716035",
+    "id": "59776ee3bf0ca271",
     "type": "split",
     "children": [
       {
-        "id": "41c89b8466ef74d7",
+        "id": "46afaa8bea93e50b",
         "type": "tabs",
         "children": [
           {
-            "id": "54e2d77756ec8804",
+            "id": "962bc93edc3f3955",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "226c8f5cd42b2e49",
+            "id": "8c85b307e3fcc9aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +119,7 @@
             }
           },
           {
-            "id": "fe5d5d7ed4fd1f3f",
+            "id": "9640ce6cf4e1c14a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,15 +130,17 @@
             }
           },
           {
-            "id": "3acaf7bbd4ac77d7",
+            "id": "0f6c0e3c5b0abbc9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bez názvu.md"
+              }
             }
           },
           {
-            "id": "fd81a5d678fd0418",
+            "id": "741c4ea68b5bce32",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,7 +148,7 @@
             }
           },
           {
-            "id": "edd6ab918c87a8d5",
+            "id": "bab95e7a604ee0ed",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,23 +164,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Otevřít rychlé přepínání": false,
       "graph:Otevřít graf": false,
       "canvas:Create new canvas": false,
       "daily-notes:Otevřít dnešní poznámku": false,
       "templates:Vložit šablonu": false,
       "command-palette:Otevřít paletu příkazů": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "edd6ab918c87a8d5",
+  "active": "5d74b482fadf713a",
   "lastOpenFiles": [
     "Bez názvu.md",
-    "Welcome.md",
-    "Bez názvu.canvas",
-    "create a link.md",
-    "2024-08-01.md"
+    "obsidian",
+    "Welcome.md"
   ]
 }
