@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono NL"
+}
