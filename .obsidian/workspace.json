@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5cead677285b02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7e35a31ce07374f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            },
-            "group": "9d5a8c0a93496af3"
-          }
-        ]
-      },
-      {
         "id": "72f3e1461b54d0d4",
         "type": "tabs",
         "children": [
@@ -32,7 +14,22 @@
               "type": "empty",
               "state": {}
             },
-            "group": "9d5a8c0a93496af3"
+            "group": "376aa6c2bd715b5e"
+          }
+        ]
+      },
+      {
+        "id": "02390b6736ace0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0991fae1e5d879",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "376aa6c2bd715b5e"
           }
         ]
       }
@@ -172,10 +169,11 @@
       "templates:Vložit šablonu": false,
       "command-palette:Otevřít paletu příkazů": false,
       "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7e35a31ce07374f",
+  "active": "bab95e7a604ee0ed",
   "lastOpenFiles": [
     "Bez názvu.md",
     "obsidian",
