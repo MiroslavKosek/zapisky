@@ -2,6 +2,9 @@
 - [[M1 - Polynomy]]
 - [[M2 - Mocniny]]
 - [[M3 - Rovnice]]
+- [[M4 - Ekvivalentní úpravy rovnic]]
+- [[M5 - Nerovnice]]
+- [[M6 - Funkce]]
 ## Učitel
 Mgr. Roman Knobloch, Ph.D.
 ## Skripta

@@ -65,3 +65,35 @@ ZK.:
 $$
 2^{3}+4^{2}+16^{\frac{1}{2}}=28
 $$
+___
+$$
+x^{2}-1=(x+1)*(x-1)
+$$
+$$
+x^{3}-1=(x-1)*(x^{2}+x+1)
+$$
+$$
+x^{4}-1=(x-1)*(x^{3}+x^{2}+x+1)
+$$
+$$
+x^{n}-1=(x-1)*(x^{n-1}+x^{n-2}+\dots+x+1)
+$$
+## Kvadratická rovnice
+f: $ax^{2}+bx+c=0$
+$$
+x_{1,2}=\frac{-b\pm \sqrt{ b^{2}-4*a*c }}{2a}
+$$
+-> Body protínající osu x
+$$
+\sqrt{ b^{2}-4*a*c }=\sqrt{ D }
+$$
+$y=x^{2}+1$
+a = 1 -> Rozpětí
+b = 0 -> Posun vrcholu
+c = 1 -> Posunutí na ose y
+![[Parabola1.png]]
+
+$y=-x^{2}$
+a < 0 -> Otočení
+![[Parabola2.png]]
+-> Graf kvadratické rovnice - Parabola

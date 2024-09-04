@@ -1,13 +1,13 @@
 $$
 2x^{3}-4x^{2}+x+1
 $$
--> čtyřčlen
--> řád polynomu -> 3.
+-> Čtyřčlen
+-> Řád polynomu -> 3.
 $$
 a^{5}-1
 $$
--> dvojčlen
--> řád polynomu -> 5.
+-> Dvojčlen
+-> Řád polynomu -> 5.
 ## Operace
 ### Sčítání
 $$
