@@ -5,6 +5,9 @@
 - [[M4 - Ekvivalentní úpravy rovnic]]
 - [[M5 - Nerovnice]]
 - [[M6 - Funkce]]
+- [[M7 - Informace k funkcím]]
+- [[M8 - Typy funkcí]]
+- [[M9 - Inverzní funkce]]
 ## Učitel
 Mgr. Roman Knobloch, Ph.D.
 ## Skripta
