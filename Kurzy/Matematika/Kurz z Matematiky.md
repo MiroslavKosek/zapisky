@@ -8,6 +8,8 @@
 - [[M7 - Informace k funkcím]]
 - [[M8 - Typy funkcí]]
 - [[M9 - Inverzní funkce]]
+- [[M10 - Funkce]]
+- [[M11 - Goniometrické funkce]]
 ## Učitel
 Mgr. Roman Knobloch, Ph.D.
 ## Skripta
