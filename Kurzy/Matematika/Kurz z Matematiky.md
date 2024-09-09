@@ -10,6 +10,9 @@
 - [[M9 - Inverzní funkce]]
 - [[M10 - Funkce]]
 - [[M11 - Goniometrické funkce]]
+- [[M12 - Komplexní čísla]]
+- [[M13 - Kombinatorika a Posloupnosti]]
+- [[M14 - Analytická geometrie v rovině]]
 ## Učitel
 Mgr. Roman Knobloch, Ph.D.
 ## Skripta
